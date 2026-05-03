@@ -17,5 +17,4 @@ api.get("/timestamp", (c) => {
     });
 });
 
-export type ApiType = typeof api;
 export default api;
