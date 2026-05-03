@@ -138,18 +138,6 @@ npm run deploy
 
 Builds both client and server, then runs `wrangler pages deploy` to push to Cloudflare Pages.
 
-**Generate Cloudflare binding types**
-
-```bash
-npm run cf-typegen
-```
-
-Generates the `CloudflareBindings` interface based on your `wrangler.jsonc` config. Run this after adding KV namespaces, R2 buckets, D1 databases, or other bindings. Pass the type to Hono when you need access to bindings:
-
-```ts
-// src/server/app.ts
-const app = new Hono<{ Bindings: CloudflareBindings }>()
-```
 
 ---
 
