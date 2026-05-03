@@ -10,5 +10,4 @@ app.route("/api", api);
 
 app.get("*", (c) => ssrHandler(c));
 
-export type AppType = typeof app;
 export default app;
