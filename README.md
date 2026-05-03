@@ -7,8 +7,7 @@ A production-ready starter template that wires together Hono, React 19, and TanS
 
 [![Hono](https://img.shields.io/badge/Hono-ff6b00?style=for-the-badge&logo=hono&logoColor=white)](https://hono.dev)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![TanStack Router](https://img.shields.io/badge/TanStack%20Router-10B981?style=for-the-badge&logo=https://i.ibb.co/YF7KbP4R/image.png)
-](https://tanstack.com/router/latest)
+[![TanStack Router](https://img.shields.io/badge/TanStack%20Router-10B981?style=for-the-badge&logo=https://i.ibb.co/YF7KbP4R/image.png)](https://tanstack.com/router/latest)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pages.cloudflare.com/)
